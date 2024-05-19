@@ -1,0 +1,7 @@
+TileSeeker,0,3
+TileDecomposer_s32,3,6
+TileDecomposer_s16,5,8
+TileDecomposer_s8,6,12
+TileDecomposer_s4,7,19
+InsideTileDecomposer,10,23
+MinTileRaster,8,27

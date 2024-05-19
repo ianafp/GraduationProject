@@ -1,0 +1,13 @@
+Quene, Mean Incoming Elements Per Cycle, Elements Mean Waiting Clock, Ideal Queue Length
+x32TileFifo, 0.0537,2.39,1
+x16TileFifo, 0.11,5.84,1
+x8TileFifo, 0.11,4.39,1
+x4TileFifo, 0.11,2.65,1
+x2TileFifo, 0.11,8.67,1
+DecomposerUnit0, 0.208,10.7,0
+DecomposerUnit1, 0.197,10.7,0
+DecomposerUnit2, 0.19,10.6,0
+DecomposerUnit3, 0.185,10.6,0
+InsideTileFifo, 0.823,101,83
+InsideMaskFifo, 9.18,1.06,10
+RasterMaskFifo, 0.6,1.06,1

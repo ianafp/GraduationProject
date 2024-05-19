@@ -1,0 +1,11 @@
+TileSeeker,0,25
+Decomposer Unit 0,14,254
+Decomposer Unit 1,15,255
+Decomposer Unit 2,16,256
+Decomposer Unit 3,18,254
+Decomposer Unit 4,19,255
+Decomposer Unit 5,20,256
+Decomposer Unit 6,20,256
+Decomposer Unit 7,21,257
+InsideTileDecomposer,18,69,70,72,76,77,84,86,87,89,90,128,129,130,134,136,138,139
+MinTileRaster,40,47,50,462

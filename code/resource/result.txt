@@ -1,0 +1,77 @@
+with no unit count
+clock:49063
+Tile Seeker Work Clock:3645,7.4%
+Tile Decomposer 32 Work Clock:2910,5.9%
+Tile Decomposer 16 Work Clock:5953,12%
+Tile Decomposer 8 Work Clock:11828,24%
+Tile Decomposer 4 Work Clock:21553,44%
+Inside Tile Work Clock:37789,77%
+Min Tile Raster Work Clock:32496,66%
+
+unit count = 16
+clock:70867
+Tile Seeker Work Clock:3645,5.1%
+Decomposer Unit 0 Work Clock: 26152,37%
+Decomposer Unit 1 Work Clock: 20952,30%
+Decomposer Unit 2 Work Clock: 15868,22%
+Decomposer Unit 3 Work Clock: 13076,18%
+Decomposer Unit 4 Work Clock: 11132,16%
+Decomposer Unit 5 Work Clock: 9868,14%
+Decomposer Unit 6 Work Clock: 8936,13%
+Decomposer Unit 7 Work Clock: 8380,12%
+Decomposer Unit 8 Work Clock: 7956,11%
+Decomposer Unit 9 Work Clock: 7560,11%
+Decomposer Unit 10 Work Clock: 7324,10%
+Decomposer Unit 11 Work Clock: 7040,9.9%
+Decomposer Unit 12 Work Clock: 6824,9.6%
+Decomposer Unit 13 Work Clock: 6468,9.1%
+Decomposer Unit 14 Work Clock: 5944,8.4%
+Decomposer Unit 15 Work Clock: 5496,7.8%
+Inside Tile Work Clock:68839,97%
+Min Tile Raster Work Clock:32496,46%
+
+unit count = 5
+clock:71546
+Tile Seeker Work Clock:3645,5.1%
+Decomposer Unit 0 Work Clock: 43608,61%
+Decomposer Unit 1 Work Clock: 37856,53%
+Decomposer Unit 2 Work Clock: 32204,45%
+Decomposer Unit 3 Work Clock: 28552,40%
+Decomposer Unit 4 Work Clock: 26756,37%
+Inside Tile Work Clock:68839,96%
+Min Tile Raster Work Clock:32496,45%
+unit count = 4
+
+clock:72177
+Tile Seeker Work Clock:3645,5.1%
+Decomposer Unit 0 Work Clock: 48620,67%
+Decomposer Unit 1 Work Clock: 44364,61%
+Decomposer Unit 2 Work Clock: 39600,55%
+Decomposer Unit 3 Work Clock: 36392,50%
+Inside Tile Work Clock:68839,95%
+Min Tile Raster Work Clock:32496,45%
+
+unit count = 3
+clock:74445
+Tile Seeker Work Clock:3645,4.9%
+Decomposer Unit 0 Work Clock: 58512,79%
+Decomposer Unit 1 Work Clock: 56148,75%
+Decomposer Unit 2 Work Clock: 54316,73%
+Inside Tile Work Clock:68839,92%
+Min Tile Raster Work Clock:32496,44%
+
+unit count = 2
+
+clock:87718
+Tile Seeker Work Clock:3645,4.2%
+Decomposer Unit 0 Work Clock: 79348,90%
+Decomposer Unit 1 Work Clock: 83188,95%
+Inside Tile Work Clock:68839,78%
+Min Tile Raster Work Clock:32496,37%
+
+unit count = 1
+clock:169441
+Tile Seeker Work Clock:3645,2.2%
+Decomposer Unit 0 Work Clock: 125824,74%
+Inside Tile Work Clock:68839,41%
+Min Tile Raster Work Clock:32496,19%

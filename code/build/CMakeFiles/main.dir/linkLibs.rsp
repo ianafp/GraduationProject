@@ -1,0 +1,1 @@
+  -LC:/Users/86173/Documents/code/GraduationProject/zjuthesis/code/lib  -lopengl32 "C:/Users/86173/Documents/code/GraduationProject/zjuthesis/code/ThirdParty/glew-2.1.0/bin/Release/x64/glew32.dll" -lglfw3 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
